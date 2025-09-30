@@ -19,7 +19,6 @@ STEPS
     <li>border-top: 2px solid rgba(255, 255, 255, 0.826);</li>
     <li>border-radius: 50%;</li>
     <li>animation: loader 1s ease-in-out 0s infinite;</li>
-    <li></li>
   </ul>
     <li>Animate as</li>
   <ul>
