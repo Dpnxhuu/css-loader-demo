@@ -1,4 +1,4 @@
 # Loader using CSS
-<p>This project demonstrates a simple CSS loading animation.</p>
-<p>No external scripts, no redirects.</p>
-<p>Live demo: </p>
+This project demonstrates a simple CSS loading animation.
+No external scripts, no redirects.<br>
+<p>Live demo: https://dpnxhuu.github.io/css-loader-demo/</p>
