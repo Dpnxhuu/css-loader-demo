@@ -1,3 +1,2 @@
-<h1>Created loader using CSS and HTML</h1>
-Live Demo:- https://dpnxhuu.github.io/Loader-using-CSS/
-<p>Clean and simple code</p>
+<h1>CSS Loader Demo</h1>
+<p>This is a simple loader animation made using pure CSS.</p>
